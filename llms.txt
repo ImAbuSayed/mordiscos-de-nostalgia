@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
+| **Get License** | [License this song: Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,13 +32,19 @@
 
 ## 📝 Lyric Preview
 
-> Mordiscos de nostalgia en tu piel
-> Sabor a noche que no puedo perder
-> Tus labios tienen lo que quiero beber
-> Y este veneno me hace enloquecer
+> Mami, la noche brilla cuando tú me miras
+> Tus besos saben a culpa y a mentiras
+> Pero no me importa, quiero ese castigo
+> Dime que esta noche te escapas conmigo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3694)
 
 ---
 
