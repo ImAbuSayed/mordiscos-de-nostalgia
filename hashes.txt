@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordiscos de nostalgia, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Mordiscos de nostalgia, Vol. 2** (mordiscos-de-nostalgia-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T00:05:48.395780 | `v1` | `2961d53afc77dad17699926afdc4a4a87c2cb3210827a2dc742b99db7c60e00e` | `d35fcb084c85dd058312a6779faee9f1904d09a25ad619ffdfdadb433035c649` | `2026-06-20_mordiscos-de-nostalgia-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
