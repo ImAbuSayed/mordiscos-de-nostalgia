@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Mordiscos de nostalgia, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
+| **Get License** | [Get License For Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3694)
+- [Telegram](https://t.me/AbuSayedMusic/3695)
 
 ---
 
