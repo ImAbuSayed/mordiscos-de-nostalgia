@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
+| **Get License** | [Obtain a Music License for Mordiscos de nostalgia, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordiscos-de-nostalgia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `2961d53afc77dad17699926afdc4a4a87c2cb3210827a2dc742b99db7c60e00e` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `a0d53245c9760de8f54a532f253267cddcd2ef05516d64db6c248be28422f9c8` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
